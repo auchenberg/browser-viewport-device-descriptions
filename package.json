@@ -1,6 +1,6 @@
 {
   "name": "browser-viewport-device-descriptions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Repository of browser viewport descriptions for a range of devices.",
   "main": "index.js",
   "scripts": {

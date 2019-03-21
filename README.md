@@ -1,6 +1,6 @@
-# browser-devices-viewport-data
+# device-viewport-descriptions
 
-Repository of browser viewport metadata for a range of devices.
+Repository of browser viewport descriptions for a range of devices.
 
 ### Data sources
 - Archived Chrome DevTools Device data, https://github.com/googlearchive/devtools-device-data

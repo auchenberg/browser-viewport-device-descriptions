@@ -1,0 +1,19 @@
+{
+  "name": "browser-viewport-device-descriptions",
+  "version": "1.0.0",
+  "description": "Repository of browser viewport descriptions for a range of devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auchenberg/browser-viewport-device-descriptions.git"
+  },
+  "author": "Kenneth Auchenberg <kenneth@auchenberg.dk>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/auchenberg/browser-viewport-device-descriptions/issues"
+  },
+  "homepage": "https://github.com/auchenberg/browser-viewport-device-descriptions#readme"
+}

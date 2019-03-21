@@ -1,4 +1,4 @@
-# device-viewport-descriptions
+# browser-viewport-device-descriptions
 
 Repository of browser viewport descriptions for a range of devices.
 

@@ -9,4 +9,4 @@ Repository of browser viewport descriptions for a range of devices.
 
 ### License
 
-TBD.
+Apache License, Version 2.0
